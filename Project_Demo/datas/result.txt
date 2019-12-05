@@ -1,0 +1,49 @@
+Logistic_model
+tn, fp, fn, tp
+99  0  27  27
+Accuracy: 0.824
+Recall: 0.5
+Precision: 1.0
+
+nb_model
+tn, fp, fn, tp
+71  28  25  29
+Accuracy: 0.654
+Recall: 0.537
+Precision: 0.509
+
+Knn_model
+tn, fp, fn, tp
+99  0  32  22
+Accuracy: 0.791
+Recall: 0.407
+Precision: 1.0
+
+svc_model
+tn, fp, fn, tp
+99  0  38  16
+Accuracy: 0.752
+Recall: 0.296
+Precision: 1.0
+
+xgboost_model
+tn, fp, fn, tp
+49  50  5  49
+Accuracy: 0.641
+Recall: 0.907
+Precision: 0.495
+
+rf_model
+tn, fp, fn, tp
+99  0  27  27
+Accuracy: 0.824
+Recall: 0.5
+Precision: 1.0
+
+gdbt_model
+tn, fp, fn, tp
+99  0  27  27
+Accuracy: 0.824
+Recall: 0.5
+Precision: 1.0
+
